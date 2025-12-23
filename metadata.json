@@ -1,0 +1,7 @@
+{
+  "name": "Roomies Social - Delhi NCR",
+  "description": "The ultimate social discovery platform for Delhi, Noida, and Gurugram. Discover local gigs, secret spots, and the best roomie connections in NCR.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
